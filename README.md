@@ -6,7 +6,7 @@ This assignment focuses on understanding and implementing fundamental Python con
 
 The exercises demonstrate how Python data structures can be created, modified, accessed, and used for decision-making through practical examples.
 
-## 🎯 Objectives
+## 🎯 Objectives 
 
 * Understand list creation, modification, and access operations
 * Work with dictionary key-value pairs
